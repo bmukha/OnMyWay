@@ -1,3 +1,3 @@
 function test() {
-    Logger.log('it works!')
+  Logger.log("it is working!");
 }
